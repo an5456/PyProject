@@ -1,0 +1,12 @@
+# 忽略文件
+
+.idea/
+banner/__pycache__
+course/__pycache__
+edu/__pycache__
+media/
+order/__pycache__
+task/__pycache__
+teacher/__pycache__
+user/__pycache__
+venv/
